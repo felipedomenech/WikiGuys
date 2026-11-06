@@ -53,4 +53,3 @@ Os testes cobrem regras do motor e a integração Wikimedia com respostas de red
 Esta é uma fundação funcional, ainda não a plataforma completa do prompt mestre. Não foram implementados Supabase Auth, PostgreSQL, NestJS, Next.js, Capacitor, PvP, salas/WebSockets, torneios, desafios, amigos, chat, temporadas, classificação competitiva, Semântica, observabilidade externa, moderação ou deploy. Não há recuperação/verificação de e-mail nem exclusão de conta na interface. O cadastro local não deve ser usado para uma implantação pública antes de completar controles operacionais e privacidade.
 
 Veja [docs/ROADMAP.md](docs/ROADMAP.md) para o estado e próximos passos. Nenhum deploy foi feito.
-
